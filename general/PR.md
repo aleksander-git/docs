@@ -13,3 +13,13 @@
         git clone https://github.com/aleksander-git/data-analyzer
 
 - форкнуть проект в свой репозиторий
+<details>
+  <summary>Как сделать форк проекта github.com/aleksander-git/data-analyzer</summary>
+  Переходим по адресу https://github.com/aleksander-git/data-analyzer
+  Далее нажимаем кнопку Fork
+
+  ![Fork](./images/1.png "Создание форка")
+
+  Затем будет следующее окно
+    
+</details>
